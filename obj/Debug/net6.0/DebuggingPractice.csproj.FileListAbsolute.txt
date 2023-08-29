@@ -1,0 +1,15 @@
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/DebuggingPractice/bin/Debug/net6.0/DebuggingPractice
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/DebuggingPractice/bin/Debug/net6.0/DebuggingPractice.deps.json
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/DebuggingPractice/bin/Debug/net6.0/DebuggingPractice.runtimeconfig.json
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/DebuggingPractice/bin/Debug/net6.0/DebuggingPractice.dll
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/DebuggingPractice/bin/Debug/net6.0/DebuggingPractice.pdb
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/DebuggingPractice/obj/Debug/net6.0/DebuggingPractice.csproj.AssemblyReference.cache
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/DebuggingPractice/obj/Debug/net6.0/DebuggingPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/DebuggingPractice/obj/Debug/net6.0/DebuggingPractice.AssemblyInfoInputs.cache
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/DebuggingPractice/obj/Debug/net6.0/DebuggingPractice.AssemblyInfo.cs
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/DebuggingPractice/obj/Debug/net6.0/DebuggingPractice.csproj.CoreCompileInputs.cache
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/DebuggingPractice/obj/Debug/net6.0/DebuggingPractice.dll
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/DebuggingPractice/obj/Debug/net6.0/refint/DebuggingPractice.dll
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/DebuggingPractice/obj/Debug/net6.0/DebuggingPractice.pdb
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/DebuggingPractice/obj/Debug/net6.0/DebuggingPractice.genruntimeconfig.cache
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/DebuggingPractice/obj/Debug/net6.0/ref/DebuggingPractice.dll
